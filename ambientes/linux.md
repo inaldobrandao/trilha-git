@@ -7,3 +7,5 @@ sudo apt install git
 ```
 
 Após o sucesso da instalação, os comandos Git estarão disponíveis para uso. Para testar, basta digitar ***git --version*** no terminal, e você verá a versão do Git que foi instalada.
+
+[Voltar para o README](/README.MD)
